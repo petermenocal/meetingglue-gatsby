@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  color: whitesmoke !important;
+  background: rgb(52, 51, 89);
+}
+.gatsby-image-wrapper img {
+  object-fit: contain !important; 
+}
+a {
+  color: whitesmoke;
+  transition: color 0.4s ease;
+  font-weight: bold;
+  text-decoration: none;
+}
+a:hover {
+  color: gray;
+}
+
+.bg-light-purple {
+  background: rgb(116, 88, 190);
+}

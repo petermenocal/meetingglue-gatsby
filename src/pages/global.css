@@ -1,0 +1,14 @@
+p {
+  margin-bottom: 1em !important;
+}
+.caption {
+  color: #545454;
+  font-size: 0.9em !important;
+}
+.caption-category {
+  color: rgb(99, 145, 201);
+  text-transform: uppercase;
+}
+.product-name {
+  margin-bottom: 0.1em;
+}

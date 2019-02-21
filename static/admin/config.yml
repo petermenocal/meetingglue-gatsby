@@ -1,0 +1,15 @@
+backend:
+  name: git-gateway
+
+media_folder: static/assets
+public_folder: assets
+show_preview_links: true
+collections:
+  - label: 'CVBs'
+    name: 'cvb'
+    folder: '_cvbs'
+    create: true
+    extension: json
+    format: json
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }

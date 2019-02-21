@@ -1,0 +1,118 @@
+[
+  {
+    "name": "Las Vegas Convention and Visitors Authority",
+    "address": "3510 Paradise Road",
+    "city": "Las Vegas",
+    "state": "NV",
+    "phone": "1-800-677-6267",
+    "hotelRoomInventory": "11,000 sleeping rooms",
+    "conventionCenter": "Las Vegas Convention Center",
+    "mainAirport1": "Ronald Reagan Washington National Airport",
+    "mainAirport2": "Ronald Reagan Washington National Airport",
+    "transportationCosts1": "Metro WMATA $3.00 one way",
+    "transportationCosts2": " Lyft/Uber $10-$15 one way",
+    "salesStaff": [
+      {
+        "name": "Portia Conerly",
+        "title": "Meetings and Conventions Manager",
+        "email": "pconerly@arlingtonva.us",
+        "phone": "703-228-0873"
+      }
+    ],
+    "updates": [
+      {
+        "image": "cvb-image.png",
+        "title": "Enrich Attendees’ Event Experiences with Volunteer Projects",
+        "summary": "Create purpose and connection among your attendees. Express your clients’ brand values by organizing a volunteer experience at your next meeting or event.",
+        "body": "In the capital area, volunteer opportunities abound with a host of non-profits, Non-Governmental Organization (NGOs) and cause-driven organizations that can align well with your group or client’s mission. Activities can range from packing school supplies for local kids, joining in an environmental cleanup or even working as a volunteer at a charity run. If your clients’ organizational culture includes a focus on social responsibility, many local Arlington non-profits have activities that might be a good match for your attendees."
+      }
+    ]
+  },
+  {
+    "name": "Arlington Convention and Visitors Service",
+    "address": "1100 N Glebe Road",
+    "city": "Arlington",
+    "state": "VA",
+    "phone": "1-800-677-6267",
+    "hotelRoomInventory": "11,000 sleeping rooms",
+    "conventionCenter": "Las Vegas Convention Center",
+    "mainAirport1": "Ronald Reagan Washington National Airport",
+    "mainAirport2": "Ronald Reagan Washington National Airport",
+    "transportationCosts1": "Metro WMATA $3.00 one way",
+    "transportationCosts2": " Lyft/Uber $10-$15 one way",
+    "salesStaff": [
+      {
+        "name": "Portia Conerly",
+        "title": "Meetings and Conventions Manager",
+        "email": "pconerly@arlingtonva.us",
+        "phone": "703-228-0873"
+      }
+    ],
+    "updates": [
+      {
+        "image": "cvb-image.png",
+        "title": "Enrich Attendees’ Event Experiences with Volunteer Projects",
+        "summary": "Create purpose and connection among your attendees. Express your clients’ brand values by organizing a volunteer experience at your next meeting or event.",
+        "body": "In the capital area, volunteer opportunities abound with a host of non-profits, Non-Governmental Organization (NGOs) and cause-driven organizations that can align well with your group or client’s mission. Activities can range from packing school supplies for local kids, joining in an environmental cleanup or even working as a volunteer at a charity run. If your clients’ organizational culture includes a focus on social responsibility, many local Arlington non-profits have activities that might be a good match for your attendees."
+      }
+    ]
+  },
+  {
+    "name": "Boulder Concention and Visitors Bureau",
+    "address": "2440 Pearl Street",
+    "city": "Boulder",
+    "state": "CO",
+    "phone": "1-800-677-6267",
+    "hotelRoomInventory": "11,000 sleeping rooms",
+    "conventionCenter": "Las Vegas Convention Center",
+    "mainAirport1": "Ronald Reagan Washington National Airport",
+    "mainAirport2": "Ronald Reagan Washington National Airport",
+    "transportationCosts1": "Metro WMATA $3.00 one way",
+    "transportationCosts2": " Lyft/Uber $10-$15 one way",
+    "salesStaff": [
+      {
+        "name": "Portia Conerly",
+        "title": "Meetings and Conventions Manager",
+        "email": "pconerly@arlingtonva.us",
+        "phone": "703-228-0873"
+      }
+    ],
+    "updates": [
+      {
+        "image": "cvb-image.png",
+        "title": "Enrich Attendees’ Event Experiences with Volunteer Projects",
+        "summary": "Create purpose and connection among your attendees. Express your clients’ brand values by organizing a volunteer experience at your next meeting or event.",
+        "body": "In the capital area, volunteer opportunities abound with a host of non-profits, Non-Governmental Organization (NGOs) and cause-driven organizations that can align well with your group or client’s mission. Activities can range from packing school supplies for local kids, joining in an environmental cleanup or even working as a volunteer at a charity run. If your clients’ organizational culture includes a focus on social responsibility, many local Arlington non-profits have activities that might be a good match for your attendees."
+      }
+    ]
+  },
+  {
+    "name": "Oakland Convention and Visitors Bureau",
+    "address": "481 Water Street",
+    "city": "Oakland",
+    "state": "CA",
+    "phone": "510-839-9000",
+    "hotelRoomInventory": "4,000 sleeping rooms",
+    "conventionCenter": "Las Vegas Convention Center",
+    "mainAirport1": "Ronald Reagan Washington National Airport",
+    "mainAirport2": "Ronald Reagan Washington National Airport",
+    "transportationCosts1": "Metro WMATA $3.00 one way",
+    "transportationCosts2": " Lyft/Uber $10-$15 one way",
+    "salesStaff": [
+      {
+        "name": "Portia Conerly",
+        "title": "Meetings and Conventions Manager",
+        "email": "pconerly@arlingtonva.us",
+        "phone": "703-228-0873"
+      }
+    ],
+    "updates": [
+      {
+        "image": "cvb-image.png",
+        "title": "Enrich Attendees’ Event Experiences with Volunteer Projects",
+        "summary": "Create purpose and connection among your attendees. Express your clients’ brand values by organizing a volunteer experience at your next meeting or event.",
+        "body": "In the capital area, volunteer opportunities abound with a host of non-profits, Non-Governmental Organization (NGOs) and cause-driven organizations that can align well with your group or client’s mission. Activities can range from packing school supplies for local kids, joining in an environmental cleanup or even working as a volunteer at a charity run. If your clients’ organizational culture includes a focus on social responsibility, many local Arlington non-profits have activities that might be a good match for your attendees."
+      }
+    ]
+  }
+]
